@@ -1,0 +1,5 @@
+PORT=3000
+API_BASE_URL=https://omegatech-api.dixonomega.tech/api/ai
+DEVELOPER_NAME=Tanakah Dev
+STAFF_ALPHA=263781125706
+STAFF_OMEGA=23278025474
